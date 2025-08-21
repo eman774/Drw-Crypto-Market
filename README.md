@@ -120,5 +120,5 @@ jupyter notebook drw-crypto-market.ipynb
 
 ### Eman Hisham
 
-### Kaggle Notebook: **[DRW Crypto Market]([https://www.kaggle.com/competitions/drw-crypto-market-prediction](https://www.kaggle.com/code/emanhishamismail/drw-crypto-market))**
+### Kaggle Notebook: **[DRW Crypto Market](https://www.kaggle.com/code/emanhishamismail/drw-crypto-market)**.
 
